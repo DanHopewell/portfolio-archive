@@ -1,0 +1,219 @@
+<?php
+
+require_once('loader.php');
+
+$cache = new Dh_OutputCache();
+if (!$cache->start('resume', 82800)) :
+
+$url = new Dh_UrlHelper;
+
+?><!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Dan Hopewell | Resume</title>
+        <meta name="description" content="Dan Hopewell is an artist, designer and front-end developer in Chicago.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <![if gt IE 8]>
+        <link rel="stylesheet" href="<?=$url->css('reset_base_main.css','min')?>">
+        <![endif]>
+        <!--[if IE 8]>
+        <link rel="stylesheet" href="<?=$url->css('reset_base_main_ie8.css')?>">
+        <![endif]-->
+        <!--[if lt IE 8]>
+        <link rel="stylesheet" href="<?=$url->css('reset_base_ie-entropy.css')?>">
+        <![endif]-->
+
+        <!--[if lt IE 9]>
+		<script src="<?=$url->js('vendor/html5shiv-min.js')?>"></script>
+		<![endif]-->
+        <script type="text/javascript" src="//use.typekit.net/yxl6fmq.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header id="pagehead">
+            <nav id="pagenav">
+                <h1><a href="#pagehead">Dan Hopewell</a></h1>
+                <ul>
+                    <li><a href="/">Work</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div id="resume">
+			<section id="resume-about">
+				<h2>About</h2>
+
+				<p>An artist at heart, my background in painting and printmaking is complemented by a technical aptitude and a love of learning. I like to think this affords me a broad perspective on the art and craft of design in all of its creative and technical demands. My deep respect for taste and aesthetics is matched only by a passion for clean typography and graceful&nbsp;markup.</p>
+			</section>
+
+			<section id="resume-skills">
+				<h2>Skills</h2>
+
+				<section id="design">
+					<h3>Design</h3>
+					<ul>
+						<li>Detail-oriented typography and layout&nbsp;skills</li>
+						<li>Strong front end web development knowledge, with basic back end&nbsp;capabilities</li>
+						<li>Understanding of <abbr>SEO</abbr> and web accessibility best&nbsp;practices</li>
+						<li>Experienced in 1-, 2- and 4-color print&nbsp;design</li>
+						<li>Intimate knowledge of digital photography and image editing, color correction and&nbsp;retouching</li>
+					</ul>
+				</section>
+
+				<section id="software">
+				<h3>Software</h3>
+					<dl>
+						<dt>Design</dt>
+						<dd>Photoshop, Illustrator, InDesign,&nbsp;QuarkXPress</dd>
+
+						<dt>General</dt>
+						<dd>Mac/Windows, Word, Excel</dd>
+
+						<dt>Front end</dt>
+						<dd><abbr>HTML</abbr>, <abbr>CSS</abbr>, <abbr>JS</abbr> <small>(vanilla,&nbsp;jQuery)</small></dd>
+
+						<dt>Back end</dt>
+						<dd><abbr>PHP</abbr> <small>(<abbr>OOP</abbr>, Wordpress)</small>, MySQL, basic Apache&nbsp;configurations</dd>
+					</dl>
+				</section>
+			</section>
+
+			<section id="resume-education">
+				<h2>Education</h2>
+
+				<section id="du">
+					<h3>University of Denver</h3>
+					<h4>1998 to 2002</h4>
+
+					<ul>
+						<li>Bachelor of Fine Arts in Studio Art&nbsp;(Painting)</li>
+						<li>Secondary concentration in Electronic Media Arts&nbsp;&amp;&nbsp;Design</li>
+					</ul>
+				</section>
+
+				<section id="saci">
+					<h3>Studio Art Centers International,&nbsp;Florence</h3>
+					<h4>Fall and Winter 2001</h4>
+
+					<ul>
+						<li>Studies in fresco painting, lithography, screen printing, illustration and black &amp; white&nbsp;photography</li>
+					</ul>
+				</section>
+			</section>
+
+			<section id="resume-experience">
+				<h2>Experience</h2>
+
+				<section id="freelance">
+					<h3>Freelance Graphic Design</h3>
+					<h4>2006 to present</h4>
+
+					<ul>
+						<li>Web design and front end development</li>
+						<li>Identity and branding</li>
+						<li>Web and print production</li>
+						<li>Illustration</li>
+						<li>Poster and t-shirt design</li>
+						<li>Photo retouching and consultation</li>
+					</ul>
+
+					<dl>
+						<dt>Selected clients</dt>
+						<dd>First Chair Designs, Rick &amp; Kelly&rsquo;s American Bistro, Vail Valley Animal Hospital, Brush Creek Dry Goods, Palace Construction, Fara Commercial Brokerage, Hunt to Eat, St. Luke&rsquo;s Episcopal Church, Mike Kelly&nbsp;Photography</dd>
+					</dl>
+				</section>
+
+				<section id="dsn">
+					<h3>Designation Labs</h3>
+					<h4>UX Researcher and Front-End Designer&mdash;July 2014 to present</h4>
+
+					<ul>
+						<li>Intensive full-stack immersion program in <abbr>UX</abbr>, <abbr>IxD</abbr>, <abbr>UI</abbr> and front-end&nbsp;development, working on short-term projects with clients from Chicago and around the world.</li>
+					</ul>
+
+					<dl>
+						<dt>Clients</dt>
+						<dd>Savvo Digital Sommelier Solutions, We Design Think, Plumwise, TeacherCare Online</dd>
+					</dl>
+				</section>
+
+				<section id="djphoto">
+					<h3>DJ Photo Corp, Evanston,&nbsp;IL</h3>
+					<h4>Digital imaging specialist&mdash;2003 to&nbsp;2014</h4>
+
+					<dl>
+						<dt>Photo Retouching</dt>
+						<dd>Lead photo retoucher. Perform digital retouching, color/exposure correction and image enchancement for portrait studio and retail customers, as well as light to extensive restoration of faded and damaged&nbsp;photos.</dd>
+						
+						<dt>Digital Production</dt>
+						<dd>Responsible for large format photo printing, archival scanning and photo duplication, basic video editing, and production of specialty photo products, including greeting cards, photo books, and photo sublimation&nbsp;gifts.</dd>
+						
+						<dt>Design &amp; Marketing</dt>
+						<dd>Design and maintain website. Developed custom <abbr>PHP</abbr>-based system for private online presentation and ordering of portrait&nbsp;images.</dd>
+						<dd>Produce direct mail, print and web advertising and in-store&nbsp;flyers.</dd>
+						
+						<dt>Systems &amp; Maintenance</dt>
+						<dd>Manage Windows-based computer network. Maintain large format inkjet, sublimation inkjet and high-speed production laser printers.</dd>
+						<dd>Established color-managed digital imaging workflows in changeover from analog, linking systems from multiple vendors and coordinating diverse inputs with four forms of color&nbsp;output.</dd>
+						
+						<dt>Customer Service</dt>
+						<dd>Portrait consultation and sales, digital camera instruction and guidance, film processing and quality control, photo&nbsp;framing.</dd>
+					</dl>
+				</section>
+
+				<section id="cap">
+					<h3>College of American Pathologists, Northfield,&nbsp;IL</h3>
+					<h4>Graphic Design Intern&mdash;1998 to 2000&nbsp;(seasonal)</h4>
+
+					<ul>
+						<li>In-house print projects executed from concept and design to pre-press&nbsp;delivery.</li>
+						<li>Assisted production and editing of annual meeting and proficiency testing&nbsp;catalogs.</li>
+						<li>Converted legacy assets from PageMaker to QuarkXpress. Prepared internal business card and letterhead&nbsp;updates.</li>
+					</ul>
+				</section>
+			</section>
+		</div>
+
+        <footer id="pagefoot">
+            <div id="about">
+                <p>Dan Hopewell is an artist, designer and front-end developer in&nbsp;Chicago.</p>
+
+                <p>Turn-ons include Swiss aesthetics, semantic markup and Kant&rsquo;s Third Critique. Turn-offs include Swiss dogmatism, car doors and the neutral zone&nbsp;trap.</p>
+
+                <p>Feel free to <a href="#email">email him</a>, to <a href="#phone">call him</a> or to watch hockey and baseball with him <a href="#twitter">on&nbsp;Twitter</a>.</p>
+
+                <ul class="links">
+                    <li><a href="#resume">Resume</a></li>
+                    <li><a href="/colophon">Colophon</a></li>
+                </ul>
+            </div>
+
+            <address id="contact">
+                <a id="email" href="mailto:dan@danhopewell.com">dan@danhopewell.com</a>
+                <a id="phone" href="tel:+17736272096">(773) 627-2096</a>
+                <a id="twitter" href="https://twitter.com/DanHopewell">@danhopewell</a>
+            </address>
+        </footer>        
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+
+        <![if gt IE 8]>
+        <script src="<?=$url->css('utilities_menu_preload-main.js','min')?>"></script>
+        <![endif]>
+        <!--[if IE 8]>
+        <script src="<?=$url->css('utilities_menu_preload-ie8.js')?>"></script>
+        <![endif]-->
+        
+    </body>
+</html>
+<?php $cache->end(); endif; ?>

@@ -1,0 +1,16 @@
+---
+name: Radium Communications Identity
+
+meta:
+    client: Radium Communications, Vail, CO
+    director: Rich Grayson, First Chair Designs
+    deliverables:
+        - Wordmark and business cards
+
+images:
+    - radium/radium-logo.png:
+        caption: Radium Communications logo
+        class: double
+    - radium/radium-cards.jpg: Business cards
+
+body: |

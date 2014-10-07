@@ -1,0 +1,89 @@
+---
+projectlist:
+    - brush-creek
+    - ember
+    - rick-and-kelly
+    - vvah
+    - st-luke-125
+    - bikes
+    - george
+    - radium
+
+projectdir: projects
+# optional, defaults to 'projects'
+
+imagedir: /port
+# optional, defaults to 'images'
+
+thumbdir: /port
+# optional, defaults to 'images/thumbs'
+
+thumbsuffix: -tn
+# optional, defaults to '_tn'
+
+templatedir: templates
+# optional, defaults to 'templates'
+
+template: template
+# default template name, overridden by ->output('templatename')
+# optional, defaults to 'template.php'
+
+formatrules:
+
+    name: 
+        - smart
+        - widows
+    body: 
+        - smart
+        - markdown
+        - widows
+    caption: 
+        - smart
+        - widows
+    client: 
+        - smart
+        - url
+        - widows
+    director: 
+        - smart
+        - url
+        - widows
+    consultant: 
+        - smart
+        - url
+        - widows
+        - list: ', '
+    team: 
+        - smart
+        - url
+        - widows
+        - list: ', '
+    deliverables: 
+        - smart
+        - widows
+        - list: ', '
+    roles: 
+        - smart
+        - widows
+        - list: ', '
+    tools: 
+        - smart
+        - widows
+        - list: ', '
+    default:   # as a fall-back
+        - smart
+
+# formatrules:
+#     [tag]:
+#         - [formatting rule]
+#         - [formatting rule]
+#
+# rules:
+#
+# smart        educate quotes/dashes
+# markdown     full markdown formatting
+# url          markdown url formatting only
+# widows       insert &nbsp; to prevent widows
+# no-format    overrides all formatting (still joins lists)
+#
+# list: '[delimiter]'   item contains list to be joined with delimiter (default: ', ')

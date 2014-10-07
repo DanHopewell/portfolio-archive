@@ -1,0 +1,244 @@
+
+/*
+* {
+	background-size: auto auto !important;
+}
+*/
+
+/*************************************************************************************/
+/* Media query ***********************************************************************/
+/*************************************************************************************/
+
+#pagehead::after {
+	content: " ";
+	display: block;
+	position: static;
+	visibility: hidden;
+	width: 100%;
+	height: 5em; /* 70/14 */
+}
+
+#pagehead h1 a {
+	background-color: transparent;
+	border: 0;
+	overflow: hidden;
+}
+
+#pagehead h1 a:before {
+	content: " ";
+	display: block;
+	width: 0;
+	height: 200%;
+}
+
+#menu,
+#menunav,
+#toggle {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+#pagefoot {
+    position: relative;
+}
+
+#pagefoot:after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+.project header h1:before {
+	content: " ";
+	position: absolute;
+	top: 0;
+	width: 3em; /* 48/16 */
+	height: 1em; /* 1/16 */
+	border-left: 1em solid transparent; /* 1/16 */
+	border-top: 1em solid; /* 1/16 */
+	border-bottom: 1em solid; /* 1/16 */
+	right: 100%;
+}
+
+.project header h1:after {
+	content: " ";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 9999px;
+	left: 100%;
+}
+
+.projectnav {
+	position: relative;
+	float: right;
+	width: 3.1429em; /* 44/14 */
+	height: 4.7143em; /* 66/14 */
+	/*top: -3.5em;*/ /* 49/14 */
+	top: -3.357em; /* 47/14 */
+	z-index: 250;
+}
+
+.projectnav li a {
+	position: absolute;
+	display: block;
+	outline: none;
+	width: 3.1429em; /* 44/14 */
+	height: 2.3571em; /* 33/14 */
+	/*image replacement*/
+    background-color: transparent;
+	border: 0;
+	overflow: hidden;
+}
+
+.projectnav li a:before {
+	content: "";
+	display: block;
+	width: 0;
+	height: 150%;
+}
+
+.projectnav li a:link,
+.projectnav li a:visited {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=50)"; /*IE8*/
+}
+
+.projectnav li a:hover,
+.projectnav li a:active,
+.projectnav li a:focus {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=100)"; /*IE8*/
+}
+
+.project header h1:before {
+	border-top-color: #b0b3b3;
+	border-bottom-color: #b0b3b3;
+}
+
+.project header h1:focus:before,
+.project header h1:hover:before,
+.project header h1:active:before {
+	border-top-color: #62666a;
+	border-bottom-color: #62666a;
+}
+
+.project header h1:after {
+	background-color: #b0b3b3;
+}
+
+.project header h1:focus:after,
+.project header h1:hover:after,
+.project header h1:active:after {
+	background-color: #62666a;
+}
+
+#pagefoot {
+    background-color: #b0b3b3;
+}
+
+/*************************************************************************************/
+/* SVG *******************************************************************************/
+/*************************************************************************************/
+
+#pagehead h1 {
+	background-image: url('http://img.danhopewell.com/i/graphics/dh_52h_transb0b3b3_v-n14jbq.svg.png');
+	/*background-size: auto 3.7143em;*/ /* 52/14 */
+}
+
+#pagehead h1:focus,
+#pagehead h1:hover,
+#pagehead h1:active {
+	background-image: url('http://img.danhopewell.com/i/graphics/dh_52h_trans62666a_v-n14jbq.svg.png');
+}
+
+#pagehead h1 a,
+#pagehead h1 a:link,
+#pagehead h1 a:visited {
+	background-image: url('http://img.danhopewell.com/i/graphics/dan-hopewell_19h_transb0b3b3_v-n14jcf.svg.png');
+	/*background-size: auto 1.3571em;*/ /* 19/14 */
+}
+
+#pagehead h1 a:focus,
+#pagehead h1 a:hover,
+#pagehead h1 a:active {
+	background-image: url('http://img.danhopewell.com/i/graphics/dan-hopewell_19h_trans62666a_v-n14jcf.svg.png');
+}
+
+
+
+.viewernav li a.close {
+	background-image: url('http://img.danhopewell.com/i/graphics/x3_20h_trans000_v-n14jb6.svg.png');
+	/*background-size: auto 1.4286em;*/ /* 20/14 */
+}
+
+.viewernav li a.prev {
+	background-image: url('http://img.danhopewell.com/i/graphics/arrow-l_32h_trans000_v-n14jcy.svg.png');
+	/*background-size: auto 2.2857em;*/ /* 32/14 */
+}
+
+.viewernav li a.next {
+	background-image: url('http://img.danhopewell.com/i/graphics/arrow-r_32h_trans000_v-n14jcr.svg.png');
+	/*background-size: auto 2.2857em;*/ /* 32/14 */
+}
+
+#email,
+#email:link,
+#email:visited {
+    background-image: url('http://img.danhopewell.com/i/graphics/email_45h_transeff0f0_v-n5qzxi.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+#phone,
+#phone:link,
+#phone:visited {
+    background-image: url('http://img.danhopewell.com/i/graphics/phone_45h_transeff0f0_v-n5qzxh.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+#twitter,
+#twitter:link,
+#twitter:visited {
+    background-image: url('http://img.danhopewell.com/i/graphics/twitter_45h_transeff0f0_v-n5qzxf.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+#email:focus,
+#email:hover,
+#email:active {
+    background-image: url('http://img.danhopewell.com/i/graphics/email_45h_transfff_v-n5qzxi.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+#phone:focus,
+#phone:hover,
+#phone:active {
+    background-image: url('http://img.danhopewell.com/i/graphics/phone_45h_transfff_v-n5qzxh.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+#twitter:focus,
+#twitter:hover,
+#twitter:active {
+    background-image: url('http://img.danhopewell.com/i/graphics/twitter_45h_transfff_v-n5qzxf.svg.png');
+    /*background-size: auto 3.2143em;*/ /* 45/14 */
+}
+
+/*************************************************************************************/
+/* Media query + SVG *****************************************************************/
+/*************************************************************************************/
+
+.projectnav li a.prev {
+	background-image: url('http://img.danhopewell.com/i/graphics/arrow-u_6h_transeff0f0_v-n14jcl.svg.png');
+	/*background-size: auto 0.4286em;*/ /* 6/14 */
+	bottom: 50%;
+	background-position: 1.1429em 1.7857em; /* 16/14, 25/14 */
+	background-repeat: no-repeat;
+}
+
+/* Media query fallback for*/
+.projectnav li a.next {
+	background-image: url('http://img.danhopewell.com/i/graphics/arrow-d_6h_transeff0f0_v-n14jd4.svg.png');
+	/*background-size: auto 0.4286em;*/ /* 6/14 */
+	top: 50%;
+	background-position: 1.1429em 0.1429em; /* 16/14, 2/14 */
+	background-repeat: no-repeat;
+}

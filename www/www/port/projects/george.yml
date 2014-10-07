@@ -1,0 +1,18 @@
+---
+name: George Grayson Fifth Birthday Posters
+
+meta:
+    client: Personal
+    deliverables:
+        - 11&times;17-inch screen-printed posters in 3 colors
+
+images:
+    - george/george-poster-stack.jpg: Hand-printed posters for my nephew's 5th birthday
+    - george/george-poster.jpg:
+        caption: League Gothic and Rockwell Extra Bold
+        class: double
+    - george/george-poster-detail-1.jpg: Obligatory shallow depth of field detail photo 1
+    - george/george-poster-detail-2.jpg: Obligatory shallow depth of field detail photo 2
+    - george/george-poster-detail-3.jpg: Obligatory shallow depth of field detail photo 3
+
+body: |

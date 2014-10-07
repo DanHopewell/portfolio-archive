@@ -1,0 +1,19 @@
+---
+name: St. Luke's 2011 Blessing of the Bicycles Poster
+
+meta:
+    client: St. Luke's Episcopal Church, Evanston, IL
+    deliverables:
+        - 300 11&times;17-inch screen-printed posters in 2 colors
+
+images:
+    - botb/botb-posters1.jpg: Blessing of the Bicycles 2011 posters
+    - botb/botb-posters2.jpg:
+        caption: Three hundred posters deep
+        class: double
+    - botb/botb-path.jpg:
+        caption: In the wild
+        class: double
+    - botb/botb-torn.jpg: Lousy punks
+
+body: |

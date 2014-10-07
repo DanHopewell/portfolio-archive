@@ -1,0 +1,19 @@
+---
+name: St. Luke's 125th Anniversary Brochure
+
+meta:
+    client: St. Luke's Episcopal Church, Evanston, IL
+    deliverables:
+        - Multi-use 8.5&times;14-inch trifold brochures in 4 colors
+
+images:
+    - stl125/stl125-front.jpg:
+        class: double
+        caption: St. Luke's 125th Anniversary brochure front
+    - stl125/stl125-full.jpg: St. Luke's 125th Anniversary brochure front, back and inside
+    - stl125/stl125-inside.jpg: St. Luke's 125th Anniversary brochure inside
+    - stl125/stl125-unfolding.jpg:
+        class: double
+        caption: The full monty
+
+body: |

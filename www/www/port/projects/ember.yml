@@ -1,0 +1,24 @@
+---
+name: St. Luke's Ember Project Fundraising Microsite
+
+meta:
+    client: St. Luke's Episcopal Church, Evanston, IL
+    deliverables:
+        - Website design
+        - PayPal IPN integration/reporting
+    tools:
+        - XHTML
+        - CSS
+        - PHP
+        - jQuery
+
+images:
+    - ember/ember-home-crop.jpg:
+        class: double
+        caption: St. Luke's Ember Project fundraising microsite
+    - ember/ember-home.jpg: Home page with drop-down call to action
+    - ember/ember-issues.jpg: What's at stake
+    - ember/ember-donate.jpg: Donation page
+    - ember/ember-participate.jpg: Events and opportunities
+
+body: |

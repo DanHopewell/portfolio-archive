@@ -1,0 +1,21 @@
+---
+name: Brush Creek Dry Goods Website
+
+meta:
+    client: Brush Creek Dry Goods, Edwards, CO
+    director: Rich Grayson, First Chair Designs
+    deliverables:
+        - Website design
+        - PHP contact form
+    tools:
+        - HTML
+        - CSS
+        - jQuery
+        - PHP
+
+images:
+    - bcdg/brush-creek-home.jpg: Brush Creek Dry Goods home page
+    - bcdg/brush-creek-womens.jpg: Women's fashions
+    - bcdg/brush-creek-contact.jpg: Location and contact page
+
+body: |

@@ -1,0 +1,26 @@
+---
+name: Rick & Kelly's American Bistro
+
+meta:
+    client: Rick & Kelly's American Bistro, Edwards, CO
+    director: Rich Grayson, First Chair Designs
+    deliverables:
+        - Logo and visual identity
+        - Business stationary
+        - Menus
+        - Placemats (design, illustrations and copy)
+
+images:
+    - rk/rk-logo.png:
+        caption: Rick & Kelly's logo
+        class: double
+    - rk/rk-stationary.jpg: Business stationary
+    - rk/rk-placemats.jpg: Illustrated placemats
+    - rk/rk-placemat-detail1.jpg: Illustrated placemats detail
+    - rk/rk-placemat-detail2.jpg: Illustrated placemats detail
+    - rk/rk-menu.jpg: Tabloid menu, folded
+    - rk/rk-menu-unfolding.jpg:
+        caption: Anatomy of a quarter-fold menu
+        class: double
+
+body: |

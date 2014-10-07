@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="199.995px" height="199.994px" viewBox="0 0 199.995 199.994" enable-background="new 0 0 199.995 199.994" xml:space="preserve"><style>
+.dh-fill {fill: #b0b3b3 !important;}
+</style>
+<path class="dh-fill" d="M199.995,99.997c0,55.227-44.771,99.997-99.997,99.997C44.771,199.994,0,155.224,0,99.997C0,44.77,44.771,0,99.998,0  C155.224,0,199.995,44.77,199.995,99.997z M49.344,68.185L100,106.858l50.715-38.673H49.344z M47.766,129.741l33.573-29.598  l-33.573-30.38V129.741z M152.293,69.764l-33.609,30.38l33.609,29.598V69.764z M150.715,131.318l-36.749-26.911L100,117.03  l-13.949-12.623l-36.708,26.911H150.715z"/>
+</svg>

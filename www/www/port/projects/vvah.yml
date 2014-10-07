@@ -1,0 +1,20 @@
+---
+name: Vail Valley Animal Hospital and Animal ER Identity
+
+meta:
+    client: Vail Valley Animal Hospital, Eagle-Vail/Edwards, CO
+    director: Rich Grayson, First Chair Designs
+    deliverables:
+        - Logo and wordmarks
+
+images:
+    - vvah/vvah-logo.png: Vail Valley Animal Hospital logo
+    - vvah/vvah-wordmarks1.png:
+        caption: Animal Hospital and Animal ER wordmarks
+        class: double
+    - vvah/vvah-wordmarks2.png:
+        caption: Location wordmarks
+        class: double
+    - vvah/vvah-patch.jpg: But will it embroider?
+
+body: |

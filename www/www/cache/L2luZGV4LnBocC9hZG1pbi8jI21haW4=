@@ -1,0 +1,425 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Dan Hopewell</title>
+        <meta name="description" content="Dan Hopewell is an artist, designer and front-end developer in Chicago.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <![if gt IE 8]>
+        <link rel="stylesheet" href="http://assets.danhopewell.com/min/reset_base_main_v-n8on7o.css">
+        <![endif]>
+        <!--[if IE 8]>
+        <link rel="stylesheet" href="http://assets.danhopewell.com/o/reset_base_main_ie8_v-n8on7o.css">
+        <![endif]-->
+        <!--[if lt IE 8]>
+        <link rel="stylesheet" href="http://assets.danhopewell.com/o/reset_base_ie-entropy_v-n69t05.css">
+        <![endif]-->
+
+        <!--[if lt IE 9]>
+        <script src="http://assets.danhopewell.com/o/vendor/html5shiv-min_v-n6ddfv.js"></script>
+        <![endif]-->
+        <script type="text/javascript" src="//use.typekit.net/yxl6fmq.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body id="home">
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header id="pagehead">
+            <nav id="pagenav">
+                <h1><a href="#pagehead">Dan Hopewell</a></h1>
+                <ul>
+                    <li><a href="#work">Work</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div id="work">
+
+			<section id="brush-creek" class="project">
+
+				<header>
+					<h1><a href="#brush-creek" rel="bookmark">Brush Creek Dry Goods&nbsp;Website</a></h1>
+					<ul class="projectnav">
+						<li><a href="#teachercare" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#ember" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="brush-creek-main">
+					<div class="images">
+						<figure id="brush-creek-main-1" class="single thumb"><a href="http://img.danhopewell.com/i/port/bcdg/brush-creek-home_v-n658ls.jpg">
+							<img title="Brush Creek Dry Goods home&nbsp;page" alt="Brush Creek Dry Goods home&nbsp;page" src="http://img.danhopewell.com/i/port/bcdg/brush-creek-home-tn_390w390hc_v-n658ls.jpg" />
+						</a></figure>
+						<figure id="brush-creek-main-2" class="single thumb"><a href="http://img.danhopewell.com/i/port/bcdg/brush-creek-womens_v-n658ll.jpg">
+							<img title="Women&#8217;s fashions" alt="Women&#8217;s fashions" src="http://img.danhopewell.com/i/port/bcdg/brush-creek-womens-tn_390w390hc_v-n658ky.jpg" />
+						</a></figure>
+						<figure id="brush-creek-main-3" class="single thumb"><a href="http://img.danhopewell.com/i/port/bcdg/brush-creek-contact_v-n65ibm.jpg">
+							<img title="Location and contact&nbsp;page" alt="Location and contact&nbsp;page" src="http://img.danhopewell.com/i/port/bcdg/brush-creek-contact-tn_390w390hc_v-n658l8.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>Brush Creek Dry Goods, Edwards,&nbsp;CO</dd>
+							<dt>Creative Direction</dt>
+							<dd>Rich Grayson, First Chair&nbsp;Designs</dd>
+							<dt>Deliverables</dt>
+							<dd>Website design, PHP contact&nbsp;form</dd>
+							<dt>Tools</dt>
+							<dd>HTML, CSS, jQuery,&nbsp;PHP</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="ember" class="project">
+
+				<header>
+					<h1><a href="#ember" rel="bookmark">St. Luke&#8217;s Ember Project Fundraising&nbsp;Microsite</a></h1>
+					<ul class="projectnav">
+						<li><a href="#brush-creek" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#rick-and-kelly" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="ember-main">
+					<div class="images">
+						<figure id="ember-main-1" class="double thumb"><a href="http://img.danhopewell.com/i/port/ember/ember-home-crop_v-n658pq.jpg">
+							<img title="St. Luke&#8217;s Ember Project fundraising&nbsp;microsite" alt="St. Luke&#8217;s Ember Project fundraising&nbsp;microsite" src="http://img.danhopewell.com/i/port/ember/ember-home-crop-tn_812w390hc_v-n658pq.jpg" />
+						</a></figure>
+						<figure id="ember-main-2" class="single thumb"><a href="http://img.danhopewell.com/i/port/ember/ember-home_v-n658q7.jpg">
+							<img title="Home page with drop-down call to&nbsp;action" alt="Home page with drop-down call to&nbsp;action" src="http://img.danhopewell.com/i/port/ember/ember-home-tn_390w390hc_v-n658q6.jpg" />
+						</a></figure>
+						<figure id="ember-main-3" class="single thumb"><a href="http://img.danhopewell.com/i/port/ember/ember-issues_v-n658rq.jpg">
+							<img title="What&#8217;s at&nbsp;stake" alt="What&#8217;s at&nbsp;stake" src="http://img.danhopewell.com/i/port/ember/ember-issues-tn_390w390hc_v-n658rq.jpg" />
+						</a></figure>
+						<figure id="ember-main-4" class="single thumb"><a href="http://img.danhopewell.com/i/port/ember/ember-donate_v-n658pw.jpg">
+							<img title="Donation page" alt="Donation page" src="http://img.danhopewell.com/i/port/ember/ember-donate-tn_390w390hc_v-n658pt.jpg" />
+						</a></figure>
+						<figure id="ember-main-5" class="single thumb"><a href="http://img.danhopewell.com/i/port/ember/ember-participate_v-n658rt.jpg">
+							<img title="Events and opportunities" alt="Events and opportunities" src="http://img.danhopewell.com/i/port/ember/ember-participate-tn_390w390hc_v-n658r1.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>St. Luke&#8217;s Episcopal Church, Evanston,&nbsp;IL</dd>
+							<dt>Deliverables</dt>
+							<dd>Website design, PayPal IPN&nbsp;integration/reporting</dd>
+							<dt>Tools</dt>
+							<dd>XHTML, CSS, PHP,&nbsp;jQuery</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="rick-and-kelly" class="project">
+
+				<header>
+					<h1><a href="#rick-and-kelly" rel="bookmark">Rick &amp; Kelly&#8217;s American&nbsp;Bistro</a></h1>
+					<ul class="projectnav">
+						<li><a href="#ember" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#vvah" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="rick-and-kelly-main">
+					<div class="images">
+						<figure id="rick-and-kelly-main-1" class="double thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-logo_v-n64cpw.png">
+							<img title="Rick &amp; Kelly&#8217;s&nbsp;logo" alt="Rick &amp; Kelly&#8217;s&nbsp;logo" src="http://img.danhopewell.com/i/port/rk/rk-logo-tn_812w390hc_v-n64cpw.png" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-2" class="single thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-stationary_v-n64crc.jpg">
+							<img title="Business stationary" alt="Business stationary" src="http://img.danhopewell.com/i/port/rk/rk-stationary-tn_390w390hc_v-n64crc.jpg" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-3" class="single thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-placemats_v-n64crh.jpg">
+							<img title="Illustrated placemats" alt="Illustrated placemats" src="http://img.danhopewell.com/i/port/rk/rk-placemats-tn_390w390hc_v-n64crh.jpg" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-4" class="single thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-placemat-detail1_v-n64cq0.jpg">
+							<img title="Illustrated placemats detail" alt="Illustrated placemats detail" src="http://img.danhopewell.com/i/port/rk/rk-placemat-detail1-tn_390w390hc_v-n64cq0.jpg" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-5" class="single thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-placemat-detail2_v-n64cpw.jpg">
+							<img title="Illustrated placemats detail" alt="Illustrated placemats detail" src="http://img.danhopewell.com/i/port/rk/rk-placemat-detail2-tn_390w390hc_v-n64cpw.jpg" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-6" class="single thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-menu_v-n64cpk.jpg">
+							<img title="Tabloid menu, folded" alt="Tabloid menu, folded" src="http://img.danhopewell.com/i/port/rk/rk-menu-tn_390w390hc_v-n64cpk.jpg" />
+						</a></figure>
+						<figure id="rick-and-kelly-main-7" class="double thumb"><a href="http://img.danhopewell.com/i/port/rk/rk-menu-unfolding_v-n64dca.jpg">
+							<img title="Anatomy of a quarter-fold&nbsp;menu" alt="Anatomy of a quarter-fold&nbsp;menu" src="http://img.danhopewell.com/i/port/rk/rk-menu-unfolding-tn_812w390hc_v-n64dca.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>Rick &amp; Kelly&#8217;s American Bistro, Edwards,&nbsp;CO</dd>
+							<dt>Creative Direction</dt>
+							<dd>Rich Grayson, First Chair&nbsp;Designs</dd>
+							<dt>Deliverables</dt>
+							<dd>Logo and visual identity, Business stationary, Menus, Placemats (design, illustrations and&nbsp;copy)</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="vvah" class="project">
+
+				<header>
+					<h1><a href="#vvah" rel="bookmark">Vail Valley Animal Hospital and Animal ER&nbsp;Identity</a></h1>
+					<ul class="projectnav">
+						<li><a href="#rick-and-kelly" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#st-luke-125" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="vvah-main">
+					<div class="images">
+						<figure id="vvah-main-1" class="single thumb"><a href="http://img.danhopewell.com/i/port/vvah/vvah-logo_v-n64fj1.png">
+							<img title="Vail Valley Animal Hospital&nbsp;logo" alt="Vail Valley Animal Hospital&nbsp;logo" src="http://img.danhopewell.com/i/port/vvah/vvah-logo-tn_390w390hc_v-n64fj1.png" />
+						</a></figure>
+						<figure id="vvah-main-2" class="double thumb"><a href="http://img.danhopewell.com/i/port/vvah/vvah-wordmarks1_v-n64fjk.png">
+							<img title="Animal Hospital and Animal ER&nbsp;wordmarks" alt="Animal Hospital and Animal ER&nbsp;wordmarks" src="http://img.danhopewell.com/i/port/vvah/vvah-wordmarks1-tn_812w390hc_v-n64fjk.png" />
+						</a></figure>
+						<figure id="vvah-main-3" class="double thumb"><a href="http://img.danhopewell.com/i/port/vvah/vvah-wordmarks2_v-n64fjf.png">
+							<img title="Location wordmarks" alt="Location wordmarks" src="http://img.danhopewell.com/i/port/vvah/vvah-wordmarks2-tn_812w390hc_v-n64fjf.png" />
+						</a></figure>
+						<figure id="vvah-main-4" class="single thumb"><a href="http://img.danhopewell.com/i/port/vvah/vvah-patch_v-n67sa9.jpg">
+							<img title="But will it&nbsp;embroider?" alt="But will it&nbsp;embroider?" src="http://img.danhopewell.com/i/port/vvah/vvah-patch-tn_390w390hc_v-n67sa9.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>Vail Valley Animal Hospital, Eagle-Vail/Edwards,&nbsp;CO</dd>
+							<dt>Creative Direction</dt>
+							<dd>Rich Grayson, First Chair&nbsp;Designs</dd>
+							<dt>Deliverables</dt>
+							<dd>Logo and wordmarks</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="st-luke-125" class="project">
+
+				<header>
+					<h1><a href="#st-luke-125" rel="bookmark">St. Luke&#8217;s 125th Anniversary&nbsp;Brochure</a></h1>
+					<ul class="projectnav">
+						<li><a href="#vvah" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#bikes" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="st-luke-125-main">
+					<div class="images">
+						<figure id="st-luke-125-main-1" class="double thumb"><a href="http://img.danhopewell.com/i/port/stl125/stl125-front_v-n64h74.jpg">
+							<img title="St. Luke&#8217;s 125th Anniversary brochure&nbsp;front" alt="St. Luke&#8217;s 125th Anniversary brochure&nbsp;front" src="http://img.danhopewell.com/i/port/stl125/stl125-front-tn_812w390hc_v-n64h74.jpg" />
+						</a></figure>
+						<figure id="st-luke-125-main-2" class="single thumb"><a href="http://img.danhopewell.com/i/port/stl125/stl125-full_v-n64h7m.jpg">
+							<img title="St. Luke&#8217;s 125th Anniversary brochure front, back and&nbsp;inside" alt="St. Luke&#8217;s 125th Anniversary brochure front, back and&nbsp;inside" src="http://img.danhopewell.com/i/port/stl125/stl125-full-tn_390w390hc_v-n64h7m.jpg" />
+						</a></figure>
+						<figure id="st-luke-125-main-3" class="single thumb"><a href="http://img.danhopewell.com/i/port/stl125/stl125-inside_v-n64h7o.jpg">
+							<img title="St. Luke&#8217;s 125th Anniversary brochure&nbsp;inside" alt="St. Luke&#8217;s 125th Anniversary brochure&nbsp;inside" src="http://img.danhopewell.com/i/port/stl125/stl125-inside-tn_390w390hc_v-n64h7o.jpg" />
+						</a></figure>
+						<figure id="st-luke-125-main-4" class="double thumb"><a href="http://img.danhopewell.com/i/port/stl125/stl125-unfolding_v-n64h7b.jpg">
+							<img title="The full monty" alt="The full monty" src="http://img.danhopewell.com/i/port/stl125/stl125-unfolding-tn_812w390hc_v-n64h7b.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>St. Luke&#8217;s Episcopal Church, Evanston,&nbsp;IL</dd>
+							<dt>Deliverables</dt>
+							<dd>Multi-use 8.5&times;14-inch trifold brochures in 4&nbsp;colors</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="bikes" class="project">
+
+				<header>
+					<h1><a href="#bikes" rel="bookmark">St. Luke&#8217;s 2011 Blessing of the Bicycles&nbsp;Poster</a></h1>
+					<ul class="projectnav">
+						<li><a href="#st-luke-125" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#george" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="bikes-main">
+					<div class="images">
+						<figure id="bikes-main-1" class="single thumb"><a href="http://img.danhopewell.com/i/port/botb/botb-posters1_v-n65164.jpg">
+							<img title="Blessing of the Bicycles 2011&nbsp;posters" alt="Blessing of the Bicycles 2011&nbsp;posters" src="http://img.danhopewell.com/i/port/botb/botb-posters1-tn_390w390hc_v-n6515t.jpg" />
+						</a></figure>
+						<figure id="bikes-main-2" class="double thumb"><a href="http://img.danhopewell.com/i/port/botb/botb-posters2_v-n6516l.jpg">
+							<img title="Three hundred posters&nbsp;deep" alt="Three hundred posters&nbsp;deep" src="http://img.danhopewell.com/i/port/botb/botb-posters2-tn_812w390hc_v-n6515v.jpg" />
+						</a></figure>
+						<figure id="bikes-main-3" class="double thumb"><a href="http://img.danhopewell.com/i/port/botb/botb-path_v-n6516a.jpg">
+							<img title="In the wild" alt="In the wild" src="http://img.danhopewell.com/i/port/botb/botb-path-tn_812w390hc_v-n6516a.jpg" />
+						</a></figure>
+						<figure id="bikes-main-4" class="single thumb"><a href="http://img.danhopewell.com/i/port/botb/botb-torn_v-n6516x.jpg">
+							<img title="Lousy punks" alt="Lousy punks" src="http://img.danhopewell.com/i/port/botb/botb-torn-tn_390w390hc_v-n6516x.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>St. Luke&#8217;s Episcopal Church, Evanston,&nbsp;IL</dd>
+							<dt>Deliverables</dt>
+							<dd>300 11&times;17-inch screen-printed posters in 2&nbsp;colors</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="george" class="project">
+
+				<header>
+					<h1><a href="#george" rel="bookmark">George Grayson Fifth Birthday&nbsp;Posters</a></h1>
+					<ul class="projectnav">
+						<li><a href="#bikes" class="prev" rel="prev">Previous</a></li>
+						<li><a href="#radium" class="next" rel="next">Next</a></li>
+					</ul>
+				</header>
+
+				<section id="george-main">
+					<div class="images">
+						<figure id="george-main-1" class="single thumb"><a href="http://img.danhopewell.com/i/port/george/george-poster-stack_v-n6cgzs.jpg">
+							<img title="Hand-printed posters for my nephew&#8217;s 5th&nbsp;birthday" alt="Hand-printed posters for my nephew&#8217;s 5th&nbsp;birthday" src="http://img.danhopewell.com/i/port/george/george-poster-stack-tn_390w390hc_v-n6cgyy.jpg" />
+						</a></figure>
+						<figure id="george-main-2" class="double thumb"><a href="http://img.danhopewell.com/i/port/george/george-poster_v-n6ch0e.jpg">
+							<img title="League Gothic and Rockwell Extra&nbsp;Bold" alt="League Gothic and Rockwell Extra&nbsp;Bold" src="http://img.danhopewell.com/i/port/george/george-poster-tn_812w390hc_v-n6ch0e.jpg" />
+						</a></figure>
+						<figure id="george-main-3" class="single thumb"><a href="http://img.danhopewell.com/i/port/george/george-poster-detail-1_v-n6cgzs.jpg">
+							<img title="Obligatory shallow depth of field detail photo&nbsp;1" alt="Obligatory shallow depth of field detail photo&nbsp;1" src="http://img.danhopewell.com/i/port/george/george-poster-detail-1-tn_390w390hc_v-n6cgzs.jpg" />
+						</a></figure>
+						<figure id="george-main-4" class="single thumb"><a href="http://img.danhopewell.com/i/port/george/george-poster-detail-2_v-n6ch0o.jpg">
+							<img title="Obligatory shallow depth of field detail photo&nbsp;2" alt="Obligatory shallow depth of field detail photo&nbsp;2" src="http://img.danhopewell.com/i/port/george/george-poster-detail-2-tn_390w390hc_v-n6ch0o.jpg" />
+						</a></figure>
+						<figure id="george-main-5" class="single thumb"><a href="http://img.danhopewell.com/i/port/george/george-poster-detail-3_v-n6cgzi.jpg">
+							<img title="Obligatory shallow depth of field detail photo&nbsp;3" alt="Obligatory shallow depth of field detail photo&nbsp;3" src="http://img.danhopewell.com/i/port/george/george-poster-detail-3-tn_390w390hc_v-n6cgzi.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>Personal</dd>
+							<dt>Deliverables</dt>
+							<dd>11&times;17-inch screen-printed posters in 3&nbsp;colors</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+			<section id="radium" class="project">
+
+				<header>
+					<h1><a href="#radium" rel="bookmark">Radium Communications Identity</a></h1>
+					<ul class="projectnav">
+						<li><a href="#george" class="prev" rel="prev">Previous</a></li>
+					</ul>
+				</header>
+
+				<section id="radium-main">
+					<div class="images">
+						<figure id="radium-main-1" class="double thumb"><a href="http://img.danhopewell.com/i/port/radium/radium-logo_v-n6517e.png">
+							<img title="Radium Communications logo" alt="Radium Communications logo" src="http://img.danhopewell.com/i/port/radium/radium-logo-tn_812w390hc_v-n6517e.png" />
+						</a></figure>
+						<figure id="radium-main-2" class="single thumb"><a href="http://img.danhopewell.com/i/port/radium/radium-cards_v-n6517r.jpg">
+							<img title="Business cards" alt="Business cards" src="http://img.danhopewell.com/i/port/radium/radium-cards-tn_390w390hc_v-n6517r.jpg" />
+						</a></figure>
+					</div>
+					<div class="text">
+
+						<dl>
+							<dt>Client</dt>
+							<dd>Radium Communications, Vail,&nbsp;CO</dd>
+							<dt>Creative Direction</dt>
+							<dd>Rich Grayson, First Chair&nbsp;Designs</dd>
+							<dt>Deliverables</dt>
+							<dd>Wordmark and business&nbsp;cards</dd>
+						</dl>
+
+
+					</div>
+				</section>
+
+			</section>
+
+
+
+        </div>
+
+        <footer id="pagefoot">
+            <div id="about">
+                <p>Dan Hopewell is an artist, designer and front-end developer in&nbsp;Chicago.</p>
+
+                <p>Turn-ons include Swiss aesthetics, semantic markup and Kant&rsquo;s Third Critique. Turn-offs include Swiss dogmatism, car doors and the neutral zone&nbsp;trap.</p>
+
+                <p>Feel free to <a href="#email">email him</a>, to <a href="#phone">call him</a> or to watch hockey and baseball with him <a href="#twitter">on&nbsp;Twitter</a>.</p>
+
+                <ul class="links">
+                    <li><a href="/resume">Resume</a></li>
+                    <li><a href="/colophon">Colophon</a></li>
+                </ul>
+            </div>
+
+            <address id="contact">
+                <a id="email" href="mailto:dan@danhopewell.com">dan@danhopewell.com</a>
+                <a id="phone" href="tel:+17736272096">(773) 627-2096</a>
+                <a id="twitter" href="https://twitter.com/DanHopewell">@danhopewell</a>
+            </address>
+        </footer>        
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+
+        <![if gt IE 8]>
+        <script src="http://assets.danhopewell.com/min/utilities_menu_preload-main_v-n6chpj.js"></script>
+        <![endif]>
+        <!--[if IE 8]>
+        <script src="http://assets.danhopewell.com/o/utilities_menu_preload-ie8_v-n6chpj.js"></script>
+        <![endif]-->
+        <script src="http://assets.danhopewell.com/min/viewer_v-n69cto.js"></script>
+        
+    </body>
+</html>
